@@ -1,0 +1,11 @@
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.csproj.AssemblyReference.cache
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.Form1.resources
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.Properties.Resources.resources
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.csproj.GenerateResource.cache
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\PerezRodrigo\bin\Debug\PerezRodrigo.exe.config
+C:\Users\R\source\repos\PerezRodrigo\bin\Debug\PerezRodrigo.exe
+C:\Users\R\source\repos\PerezRodrigo\bin\Debug\PerezRodrigo.pdb
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.exe
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.pdb
+C:\Users\R\source\repos\PerezRodrigo\obj\Debug\PerezRodrigo.exe.config
