@@ -1,0 +1,11 @@
+C:\Users\R\source\repos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\R\source\repos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\Negocio\bin\Debug\Negocio.dll
+C:\Users\R\source\repos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\R\source\repos\Negocio\bin\Debug\Datos.dll
+C:\Users\R\source\repos\Negocio\bin\Debug\Modelos.dll
+C:\Users\R\source\repos\Negocio\bin\Debug\Datos.pdb
+C:\Users\R\source\repos\Negocio\bin\Debug\Modelos.pdb
+C:\Users\R\source\repos\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\R\source\repos\Negocio\obj\Debug\Negocio.dll
+C:\Users\R\source\repos\Negocio\obj\Debug\Negocio.pdb

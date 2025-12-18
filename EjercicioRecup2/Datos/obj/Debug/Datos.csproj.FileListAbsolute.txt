@@ -1,0 +1,9 @@
+C:\Users\R\source\repos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\R\source\repos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\Datos\bin\Debug\Datos.dll
+C:\Users\R\source\repos\Datos\bin\Debug\Datos.pdb
+C:\Users\R\source\repos\Datos\bin\Debug\Modelos.dll
+C:\Users\R\source\repos\Datos\bin\Debug\Modelos.pdb
+C:\Users\R\source\repos\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\R\source\repos\Datos\obj\Debug\Datos.dll
+C:\Users\R\source\repos\Datos\obj\Debug\Datos.pdb
